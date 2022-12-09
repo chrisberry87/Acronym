@@ -2,7 +2,7 @@
 
 #### A simple Acronyms App 📱 built which can be used to get meanings for Acronyms 🏗
 
-The App is using the [Acronyms API](http://www.nactem.ac.uk/software/acromine/rest.html) to searching news.
+The App is using the [Acronyms API](http://www.nactem.ac.uk/software/acromine/rest.html) to searching Acronym.
 
 ### Build With 🏗️
 - [Kotlin] - Programming language for Android
